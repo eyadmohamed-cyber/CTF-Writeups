@@ -2,7 +2,7 @@
 
 Documentation of my hands-on CTF practice across TryHackMe and HackTheBox. 
 Each writeup covers my full approach including reconnaissance, enumeration, 
-exploitation, and key lessons learned — including attempts that didn't go 
+exploitation, and key lessons learned including attempts that didn't go 
 as planned, because those teach just as much.
 
 ---
