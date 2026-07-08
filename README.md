@@ -9,16 +9,12 @@ as planned, because those teach just as much.
 
 ## TryHackMe
 
-**Jr Pentester Path Challenges**  
-Five end-to-end challenges covering the full penetration testing methodology.  
-*Writeups being added as challenges are completed — July 2026*
+
 
 ---
 
 ## HackTheBox
 
-Starting after TryHackMe Web Hacking module is complete.  
-*Coming late 2026*
 
 ---
 
